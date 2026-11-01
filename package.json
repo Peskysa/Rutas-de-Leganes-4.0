@@ -1,6 +1,6 @@
 {
   "name": "rutas-de-leganes-4.0",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "private": true,
   "description": "Planificador local de reparto con importación y exportación de rutas.",
   "author": "Marco Pescador",
